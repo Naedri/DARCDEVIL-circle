@@ -1,7 +1,6 @@
 from GUI import *
 from tkinter import *
 
-
 def main():
     root = Tk()
     gui = GUI(root)
