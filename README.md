@@ -1,6 +1,6 @@
 # Hackathon-Impact-triangulation
 
-A python program to calculate the intersections between circles.
+Algorithm developed in the framework of a Hackathon for the positioning of arrows impact on target by triangulation (calculate the intersections between circles and parabolas).
 
 ## Set up the app
 
